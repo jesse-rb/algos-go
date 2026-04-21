@@ -1,3 +1,7 @@
+# Overview
+
+This repositoyry is an exercise for me to practice and play around with data structures and algorithms in golang
+
 # Testing
 
 Makefile targets provided
